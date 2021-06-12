@@ -1,6 +1,6 @@
 <p align='center'>
 <img src='https://img.shields.io/github/stars/WARSNOOP/DiscordVerificationBot'></img>
-<a href="https://github.com/WARSNOOP/DiscordVerificationBot/archive/refs/tags/1.0.zip"><img src='https://img.shields.io/badge/Click-To%20Download-success'></img></a>
+<a href="https://github.com/WARSNOOP/DiscordVerificationBot/archive/refs/tags/DiscordVerificationBot.zip"><img src='https://img.shields.io/badge/Click-To%20Download-success'></img></a>
 <img src = 'https://img.shields.io/badge/Made%20By-Warsnoop-important'></img>
 </p>
 
