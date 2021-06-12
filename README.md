@@ -30,11 +30,9 @@ client.run('Token goes here')
 Prefix is :- `*` <br>
 The following <i>commands</i> are avaliable -
 
-- Stock
-- Redeem [code] [country]
-- Donate
-- Gen [amount]
-
+- Setup
+- Verify (user)
+- Help
 ---
 
 Need any help? Contact me on Discord <b>warsnoop#0755</b><br />
